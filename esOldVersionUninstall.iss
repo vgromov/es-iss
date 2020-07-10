@@ -1,4 +1,4 @@
-// return application uninstallation string
+﻿// return application uninstallation string
 function esAppUninstallStringGet(uninstKey : string; var keyRoot : Integer) : string;
 var
 	key : string;
